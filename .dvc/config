@@ -1,7 +1,5 @@
 [core]
     remote = azure_storage
-['remote "gcloud_storage"']
-    url = gs://fc-cf90beb3-5407-4234-8a42-a99262e43802/
 ['remote "azure_storage"']
     url = azure://test-azcopy-blob
     account_name = cs410032001fddd9974
